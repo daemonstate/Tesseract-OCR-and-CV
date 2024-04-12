@@ -1,1 +1,2 @@
 # Tesseract-OCR-and-CV
+When dealing with OCR of a big batch of images we can use image preprocessing to optimize and ensure high performance of OCR. Even without retraining Tesseract OCR for individual purposes we can get good results with following techniques when working with tables: removing tables, changing alpha and beta channels, deskew an image, denoise, apply binary thresholding, and adjust contrast.
